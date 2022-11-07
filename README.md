@@ -1,4 +1,5 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/t4ke0/jsondb)](https://goreportcard.com/report/github.com/t4ke0/jsondb)
+[![Go Reference](https://pkg.go.dev/badge/github.com/t4ke0/jsondb.svg)](https://pkg.go.dev/github.com/t4ke0/jsondb)
 
 ## jsondb
 
